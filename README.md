@@ -12,3 +12,5 @@ FOI CRIADO UMA APLICAÇÃO DE EXEMPLO, REACT.JS COM VITE PARA CONSUMIR DADOS DA 
     "@types/react-dom": "^18.0.9",
     "@vitejs/plugin-react": "^3.0.0",
     "vite": "^4.0.0"
+  
+ 
