@@ -1,0 +1,33 @@
+.new-post{
+    text-align: center;
+    margin-top: 1rem;
+}
+
+form{
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.form-control{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+.form-control label{
+    text-align: left;
+    margin-bottom: 0.5rem;
+}
+
+.form-control input,
+.form-control textarea{
+    background-color: rgb(242, 206, 206);
+    padding: .5rem;
+    border-radius: 5px;
+    border: none;
+}
+
+.form-control textarea{
+    height: 8rem;
+}

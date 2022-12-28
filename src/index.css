@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+body{
+    background-color: #f6f6f6;
+    color: rgb(77, 77, 77);
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+    opacity: 0.7;
+    transition:  .3s;
+}
+a:hover{
+   opacity: 1; 
+}
+
+p{
+    color: #a9abb3;
+}
