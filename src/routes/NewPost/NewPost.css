@@ -1,6 +1,7 @@
 .new-post{
     text-align: center;
     margin-top: 1rem;
+    height: 75vh;
 }
 
 form{
@@ -28,6 +29,10 @@ form{
     border: none;
 }
 
+.form-control input{
+    height: 30px;
+}
+
 .form-control textarea{
-    height: 8rem;
+    height: 200px;
 }

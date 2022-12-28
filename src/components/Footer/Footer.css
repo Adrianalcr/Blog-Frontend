@@ -1,5 +1,22 @@
-.main-header {
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background-color: #903743;
     position: relative;
-    margin-bottom: 0;
-    background-color: #fff!important;
+}
+
+.scroollUp {
+    background-color: #ffdf2b;
+    max-width: 100%;
+    height: auto;
+    cursor: pointer;
+    width: 50px;
+}
+
+.scroollUp:hover {
+    background-color: #ffdf2b;
+    border-radius: 50%;
+    transition: 1s;
 }
